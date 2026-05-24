@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi there, I'm Kashish
 
-<!--
-**kashish7-7/kashish7-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI Engineering Student | Backend & FastAPI Developer
 
-Here are some ideas to get you started:
+I focus on building scalable backend systems, AI-powered applications, and automation workflows using FastAPI, LLMs, and modern AI tooling.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+Education: MCA (Generative AI) student at SRM University of Science and Technology
+Specialization: Backend AI Systems, FastAPI, LLM Integration & Workflow Automation
+Interests: AI Agents, Backend Architecture, RAG Systems, Production-Oriented AI Applications
+Currently Exploring: Autonomous AI agents, vector databases, orchestration frameworks, and scalable AI backend design
+
+---
+
+## Technical Stack
+
+| Category              | Technologies                                                    |
+| --------------------- | --------------------------------------------------------------- |
+| Databases             | SQL, Supabase (PostgreSQL), Vector Databases                    |
+| Automation            | n8n, Flow Enterprise, Workflow Automation                       |
+| Programming Languages | Python, JavaScript, C/C++, Java, PHP, R                         |
+| Web Technologies      | HTML, CSS                                                       |
+| Cloud & Platforms     | Siemens Insights Hub                                            |
+
+
+---
+
+## Experience
+
+### Tester Intern — AndAI *(Nov 2025 – Feb 2026)*
+
+* Contributed to live backend systems and AI-based backend workflows
+* Worked with FastAPI, MCP concepts, LLM integrations, and backend testing
+* Built experimental backend systems using Supabase, vector databases, and automation tools like n8n
+
+---
+
+## GitHub Focus
+
+Backend Engineering
+AI-Powered Applications
+FastAPI & Automation Systems
+LLM Workflows & Agent Systems
+Production-Oriented AI Development
+
+---
+
+## Let's Connect
+
+Email:kashishkumari485@gmail.com
+Linkedin:linkedin.com/in/kashish-b94630248 
