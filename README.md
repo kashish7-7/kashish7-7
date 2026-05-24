@@ -51,4 +51,5 @@ Production-Oriented AI Development
 ## Let's Connect
 
 Email:kashishkumari485@gmail.com
-Linkedin:linkedin.com/in/kashish-b94630248 
+
+Linkedin: linkedin.com/in/kashish-b94630248 
