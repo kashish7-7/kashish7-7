@@ -38,13 +38,8 @@ Currently Exploring: Autonomous AI agents, vector databases, orchestration frame
 
 ---
 
-## GitHub Focus
-
-Backend Engineering
-AI-Powered Applications
-FastAPI & Automation Systems
-LLM Workflows & Agent Systems
-Production-Oriented AI Development
+## Projects
+https://github.com/kashish7-7/Kashish
 
 ---
 
