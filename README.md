@@ -30,7 +30,7 @@ Currently Exploring: Autonomous AI agents, vector databases, orchestration frame
 
 ## Experience
 
-### Tester Intern — AndAI *(Nov 2025 – Feb 2026)*
+###  Intern — AndAI *(Nov 2025 – Feb 2026)*
 
 * Contributed to live backend systems and AI-based backend workflows
 * Worked with FastAPI, MCP concepts, LLM integrations, and backend testing
